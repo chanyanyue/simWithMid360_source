@@ -1,0 +1,33 @@
+common:
+    lid_topic:  "/livox/lidar"
+    imu_topic:  "/mavros/imu/data_raw"
+    time_sync_en: false
+    time_offset_lidar_to_imu: 0.025797  # 注意：正数！
+
+preprocess:
+    lidar_type: 1                # Livox
+    scan_line: 4
+    blind: 0.02
+
+mapping:
+    acc_cov: 0.1
+    gyr_cov: 0.1
+    b_acc_cov: 0.0001
+    b_gyr_cov: 0.0001
+    fov_degree: 360
+    det_range: 100.0
+    extrinsic_est_en: false      # 使用标定结果，不在线估计
+    extrinsic_T: [-0.010265, -0.002965, 0.118233]
+    extrinsic_R: [ 0.999743, -0.020824,  0.009017,
+                   0.020961,  0.999662, -0.015411,
+                  -0.008693,  0.015596,  0.999841 ]
+
+publish:
+    path_en: false
+    scan_publish_en: true
+    dense_publish_en: true
+    scan_bodyframe_pub_en: true
+
+pcd_save:
+    pcd_save_en: true
+    interval: -1
