@@ -34,6 +34,7 @@ MAVROS 的配置与上一章讲义相同，已完成的可忽略。
 
 ```bash
 cd ~/PX4-Autopilot
+mv .git_backup .git
 sudo apt-get update
 sudo bash ./Tools/setup/ubuntu.sh
 sudo apt-get install libboost-all-dev gcc-arm-none-eabi
