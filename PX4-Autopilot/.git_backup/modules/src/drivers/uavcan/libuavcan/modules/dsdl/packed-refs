@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+993be80a62ec957c01fb41115b83663959a49f46 refs/remotes/origin/master
+2f719de0bb0f8ce5b8c31c81dd9e18d1bc57937d refs/remotes/origin/pr-himark-servo
+39acd52377e28b89a6b2f052da2733e12056bf4f refs/remotes/origin/pr-magfield-hires
+6142fde83fae734c91f02d9d85e6cc5a42fb34af refs/remotes/origin/pr-remoteid-system-update
+953715e5259bd3665d968ff94e4601da1b7f959d refs/remotes/origin/pr-tunnel-targeted
+192295c4f9b67f4a20b0eabf74757b6597415f2b refs/remotes/origin/stable-4.1

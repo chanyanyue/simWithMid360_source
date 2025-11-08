@@ -1,0 +1,15 @@
+82fd41f2a550c2872a2e4b8a76532c3b95bb9418	not-for-merge	branch 'OBC-2018' of https://github.com/ardupilot/pymavlink
+19bc0f1f94b174882b7af8684d06d75970805921	not-for-merge	branch 'davidbuzz-leapsecondsfix-1' of https://github.com/ardupilot/pymavlink
+348762ea626a4b5f48ffe4be637de6063d58062e	not-for-merge	branch 'dependabot/npm_and_yarn/generator/javascript/babel/traverse-7.23.2' of https://github.com/ardupilot/pymavlink
+70a47ca1d0aacb7b9e55003707df02c02f98edcc	not-for-merge	branch 'dependabot/npm_and_yarn/generator/javascript/browserify-sign-4.2.2' of https://github.com/ardupilot/pymavlink
+51757912b9ba8134b78e87cab0c6343236ce9cca	not-for-merge	branch 'dependabot/npm_and_yarn/generator/javascript/multi-4a35735f7c' of https://github.com/ardupilot/pymavlink
+9b6c3d36dd2c78bda7faccab58ef45977a95ef83	not-for-merge	branch 'dependabot/npm_and_yarn/generator/javascript_stable/babel/traverse-7.23.2' of https://github.com/ardupilot/pymavlink
+eb0cf154b50c1e2269a88b5c919b7303554fea12	not-for-merge	branch 'dependabot/npm_and_yarn/generator/javascript_stable/debug-4.3.4' of https://github.com/ardupilot/pymavlink
+9827a0cd753fa9b1669dcec9e983485a5223d9b3	not-for-merge	branch 'dependabot/npm_and_yarn/generator/javascript_stable/minimatch-3.1.2' of https://github.com/ardupilot/pymavlink
+93f60d0da7f613457b6c66b12086a3727424bda0	not-for-merge	branch 'dependabot/npm_and_yarn/generator/javascript_stable/multi-59c9df84b4' of https://github.com/ardupilot/pymavlink
+75dfe5fca1fd589cf82010fb2800a59e4a5d2e00	not-for-merge	branch 'master' of https://github.com/ardupilot/pymavlink
+33f7c208850da5151c33a18c6d1a42c7e02576e9	not-for-merge	branch 'mavftp_updates' of https://github.com/ardupilot/pymavlink
+9858a7e9fe53716f87029637945510c3eea6eb0b	not-for-merge	branch 'pr-gitignore' of https://github.com/ardupilot/pymavlink
+f78f76ebb9ea745278c3eae3d5a7c3b08eec70eb	not-for-merge	branch 'pr-improve-MAV_CMD-parameters' of https://github.com/ardupilot/pymavlink
+5c609d6e41bc6d90b402218de1a039cb7086ed02	not-for-merge	branch 'pr-instance-vars2' of https://github.com/ardupilot/pymavlink
+037994e9570ac270c29e2844bec9a4b981041591	not-for-merge	branch 'release' of https://github.com/ardupilot/pymavlink

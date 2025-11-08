@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+91f785b387dc93c72c4f920b2d40c234ea85ae0a refs/remotes/origin/electric
+fdb6dd685f55097230c0eb29aa7e9f5b8d0abf1e refs/remotes/origin/master
+cdae8dd0bf25c7120a8f99319c1310a0b2289d9f refs/remotes/origin/platform_takeoff

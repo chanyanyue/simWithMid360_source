@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = ../../../../../../Tools/jMAVSim/jMAVlib
+[remote "origin"]
+	url = https://github.com/PX4/jMAVlib.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[remote "upstream"]
+	url = https://github.com/tomletotten/jMAVlib.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*

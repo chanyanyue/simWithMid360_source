@@ -1,0 +1,18 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = ../../../../../../src/drivers/uavcan/libuavcan
+[remote "origin"]
+	url = https://github.com/dronecan/libuavcan.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[submodule "dsdl"]
+	active = true
+	url = https://github.com/dronecan/DSDL
+[submodule "libuavcan/dsdl_compiler/pyuavcan"]
+	active = true
+	url = https://github.com/dronecan/pydronecan

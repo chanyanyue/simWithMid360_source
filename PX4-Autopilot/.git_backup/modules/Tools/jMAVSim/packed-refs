@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+46639795e91eb0b15b65008fbdec1efeaff5ea01 refs/remotes/origin/apple-m1-support
+25efcb57ce0e0e98fb3d281c130a8a6e6cbbf472 refs/remotes/origin/follow
+66b764ada522893c05224950aa6268c809f8e48a refs/remotes/origin/main
+0af86a714efa81030ccb432ef63e3f873089dbf5 refs/remotes/origin/pr-default_update_rate
+335472dfcd4549be9a88578f9d95c368c69444b7 refs/remotes/origin/pr-maven
+0873b47e21603a2284186938e4d98a3821afeeeb refs/remotes/origin/shade
+974181ab5eb11d9e5373ca5efb049bc0baed2ba9 refs/remotes/origin/uart_write_buffer_check

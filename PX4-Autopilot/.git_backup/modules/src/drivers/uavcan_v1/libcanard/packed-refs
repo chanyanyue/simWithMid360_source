@@ -1,0 +1,17 @@
+# pack-refs with: peeled fully-peeled sorted 
+1c4da0d8202ab89743a5105bb58040a73fa7225c refs/remotes/origin/issue/222-getsubscription
+1c4da0d8202ab89743a5105bb58040a73fa7225c refs/remotes/origin/master
+a26c0febd07d9d13121e373b0b87080f5e84f52d refs/remotes/origin/pavel-kirienko-patch-1
+a8b646c97c2cdd668d4ca5d35b55e1361823d41b refs/remotes/origin/sshirokov/222-getsubsription
+e776368355a890543035cdae356710ade5d7baea refs/tags/0.100
+54a004bd59c2a637c7b39e3ea2feac7142f74489 refs/tags/1.0.0
+2a116170285fb47fcaae150ad21c2ccde0756a5f refs/tags/1.1.0
+cf0a8bc67ddf98dfccf157695533ac5324e021eb refs/tags/2.0.0
+db87ea32aa092c48ea103963138b6346dd3e9008 refs/tags/3.0.0
+989124d0b9bdf3020263c9e51bec878bfe535714 refs/tags/3.0.1
+69ed329db4ae31d9c85dbe052434f60e552cecbe refs/tags/3.1.0
+73d0a9cae94307038344b0d3eac2fd6dac44e139 refs/tags/3.1.1
+1c4da0d8202ab89743a5105bb58040a73fa7225c refs/tags/3.1.2
+5ae04ed48ed714db95c3e8d478a208a476539326 refs/tags/v0.1
+907f95710a618e0a2e774223c6d6c325723d559c refs/tags/v0.2
+b7e2be5fc3b65fbf34dfced1a4e572697bb90989 refs/tags/v0.3
