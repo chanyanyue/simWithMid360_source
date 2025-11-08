@@ -3,7 +3,11 @@
 ## 1. 克隆代码仓库
 
 ```bash
+sudo apt install git-lfs
+git lfs install 
 git clone https://github.com/chanyanyue/simWithMid360_source.git
+cd ~/simWithMid360_source
+git lfs pull
 ```
 
 ## 2. 移动文件位置
