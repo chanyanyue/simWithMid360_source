@@ -32,8 +32,8 @@ MAVROS 的配置与上一章讲义相同，已完成的可忽略。
 cd ~/PX4-Autopilot
 sudo apt-get update
 sudo bash ./Tools/setup/ubuntu.sh
-sudo apt-get install libboost-all-dev
-pip3 install --user jinja2 pyyaml jsonschema empy==3.3.4 pyros-genmsg toml numpy packaging future
+sudo apt-get install libboost-all-dev gcc-arm-none-eabi
+pip3 install --user kconfiglib jinja2 pyyaml jsonschema empy==3.3.4 pyros-genmsg toml numpy packaging future
 make px4_sitl_default gazebo
 ```
 
