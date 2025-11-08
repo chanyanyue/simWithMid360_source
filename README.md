@@ -3,7 +3,7 @@
 ## 1. 克隆代码仓库
 
 ```bash
-git clone https://github.com/chanyanyue/simWithMid360_source.git~/
+git clone https://github.com/chanyanyue/simWithMid360_source.git
 ```
 
 ## 2. 移动文件位置
