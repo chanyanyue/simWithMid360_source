@@ -12,7 +12,7 @@ git clone https://github.com/chanyanyue/simWithMid360_source.git
 
 ```bash
   cd ~/simWithMid360_source
-  mv -i \* ~
+  mv livox_ws PX4-Autopilot sim_ws ~/
   cd ..
   ls
   rm -rf simWithMid360_source
